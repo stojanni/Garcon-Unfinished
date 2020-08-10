@@ -1,11 +1,14 @@
 package com.liminal.project32;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.FragmentManager;
 import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.TextView;
 
 import java.util.ArrayList;
@@ -76,6 +79,17 @@ public class EditMenu extends AppCompatActivity implements Adapter.ItemClickList
 
     public void onItemClick(TextView view, int position) {
 
+    }
+
+    public void editCuisines(View view){
+        FragmentManager fm = getSupportFragmentManager();
+        PickCuisinesDialog pickCuisinesDialog = PickCuisinesDialog.newInstance("Some Title");
+        pickCuisinesDialog.show(fm, "pick_cuisines_dialog");
+    }
+
+    public void editProduct(View view){
+        Intent intent = new Intent(this, EditProduct.class);
+        startActivity(intent);
     }
 
 }

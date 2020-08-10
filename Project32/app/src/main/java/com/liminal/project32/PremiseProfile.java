@@ -92,11 +92,8 @@ public class PremiseProfile extends AppCompatActivity implements AdapterView.OnI
     }
 
     public void editMenu(View view){
-
-        FragmentManager fm = getSupportFragmentManager();
-        PickCuisinesDialog pickCuisinesDialog = PickCuisinesDialog.newInstance("Some Title");
-        pickCuisinesDialog.show(fm, "pick_cuisines_dialog");
-
+        Intent intent = new Intent(this, EditMenu.class);
+        startActivity(intent);
     }
 
 }

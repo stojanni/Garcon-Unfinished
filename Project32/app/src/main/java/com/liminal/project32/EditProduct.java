@@ -53,4 +53,8 @@ public class EditProduct extends AppCompatActivity implements AdapterView.OnItem
         // Another interface callback
     }
 
+    public void deleteProduct(View view){
+
+    }
+
 }
