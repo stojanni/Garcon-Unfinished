@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="app_name">Project32</string>
+    <string name="back">‹</string>
+    <string name="menu">≡</string>
+
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="address">Address</string>
+    <string name="profilePic">Profile Pic</string>
+    <string name="logo">Logo</string>
+    <string name="installations">Installations</string>
+    <string name="customer">Customer</string>
+    <string name="owner">Owner</string>
+    <string name="add_card">Add Credit Card</string>
+    <string name="request_QR">Request QR Codes</string>
+    <string name="edit_menu">Edit Menu</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="order">Order</string>
+
+    <string name="grill">Grill</string>
+    <string name="icecream">Ice-Cream</string>
+    <string name="chicken">Chicken</string>
+    <string name="freshJuices">Fresh Juices</string>
+    <string name="smoothies">Smoothies</string>
+    <string name="fasting">Fasting</string>
+    <string name="desserts">Desserts</string>
+    <string name="seafood">Seafood</string>
+    <string name="salads">Salads</string>
+    <string name="waffles">Waffles</string>
+    <string name="crepes">Crepes</string>
+    <string name="vegan">Vegan</string>
+    <string name="italian">Italian</string>
+    <string name="pasta">Pasta</string>
+    <string name="coffees">Coffees</string>
+    <string name="pizzas">Pizzas</string>
+    <string name="burgers">Burgers</string>
+    <string name="cooked">Cooked</string>
+    <string name="eastern">Eastern</string>
+    <string name="falafel">Falafel</string>
+    <string name="bakery">Bakery</string>
+    <string name="mexican">Mexican</string>
+    <string name="appetizers">Appetizers</string>
+    <string name="indian">Indian</string>
+    <string name="chinese">Chinese</string>
+    <string name="beverages">Beverages</string>
+    <string name="wines">Wines</string>
+    <string name="beers">Beers</string>
+    <string name="drinks">Drinks</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Price</string>
+
+</resources>

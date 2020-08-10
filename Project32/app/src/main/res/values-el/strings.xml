@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Project32</string>
+    <string name="back">‹</string>
+    <string name="menu">≡</string>
+
+    <string name="register">Εγγραφή</string>
+    <string name="login">Σύνδεση</string>
+    <string name="name">Όνομα</string>
+    <string name="email">Email</string>
+    <string name="password">Κωδικός</string>
+    <string name="address">Διεύθυνση</string>
+    <string name="profilePic">Φωτογραφία Προφίλ</string>
+    <string name="logo">Λογότυπο</string>
+    <string name="installations">Εγκαταστάσεις</string>
+    <string name="customer">Πελάτης</string>
+    <string name="owner">Ιδιοκτήτης</string>
+    <string name="add_card">Βάλε Κάρτα</string>
+    <string name="request_QR">Αίτηση Κωδικών QR</string>
+    <string name="edit_menu">Επεξεργασία Μενού</string>
+    <string name="add_to_cart">Στο Καλάθι</string>
+    <string name="order">Παραγγελία</string>
+
+    <string name="grill">Grill</string>
+    <string name="ice_cream">Παγωτά</string>
+    <string name="chicken">Κοτόπουλα</string>
+    <string name="freshJuices">Φρέσκοι Χυμοί</string>
+    <string name="smoothies">Smoothies</string>
+    <string name="fasting">Νηστίσιμα</string>
+    <string name="desserts">Γλυκά</string>
+    <string name="seafood">Θαλασσινά</string>
+    <string name="salads">Σαλάτες</string>
+    <string name="waffles">Βάφλες</string>
+    <string name="crepes">Κρέπες</string>
+    <string name="vegan">Vegan</string>
+    <string name="italian">Ιταλική</string>
+    <string name="pasta">Ζυμαρικά</string>
+    <string name="coffees">Καφέδες</string>
+    <string name="pizzas">Πίτσες</string>
+    <string name="burgers">Burgers</string>
+    <string name="cooked">Μαγειρευτά</string>
+    <string name="eastern">Ανατολίτικη</string>
+    <string name="falafel">Falafel</string>
+    <string name="bakery">Αρτοποιήματα</string>
+    <string name="mexican">Μεξικάνικη</string>
+    <string name="appetizers">Ορεκτικά</string>
+    <string name="indian">Ινδική</string>
+    <string name="chinese">Κινέζικη</string>
+    <string name="beverages">Αναψυκτικά</string>
+    <string name="wines">Κρασιά</string>
+    <string name="beers">Μπύρες</string>
+    <string name="drinks">Ποτά</string>
+    <string name="product_name">Όνομα Προϊόντος</string>
+    <string name="product_price">Τιμή</string>
+
+</resources>
