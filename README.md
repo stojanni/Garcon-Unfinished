@@ -1,3 +1,5 @@
+# OLD CODE
+
 # Garcon
 ***An ordering app to replace waiters***
 
